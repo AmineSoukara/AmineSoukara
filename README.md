@@ -41,6 +41,6 @@ Religion = "🇲🇦"
 - 👯 I'm Looking To Collaborate On Projects
 - 🤔 I'm Looking For Help With Open Source
 ```
-## Stats : ![Github Stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&theme=radical&show_icons=true)
+## Stats : ![Amine's github stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true)
 
-## Skills : ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&theme=dark&hide_langs_below=1&show_icons=true)
+## Skills : [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
