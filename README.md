@@ -1,6 +1,7 @@
 # ＤＡＭＩＥＮ ＸＭＡＲＳ
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views)
-![Dyno](https://github.com/CW4RR10R/archives/raw/master/dino.gif) 
+[![telegram badge](https://img.shields.io/badge/AmineSoukara-30302f?style=flat&logo=telegram)](https://t.me/AmineSoukara)
+![Dyno](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif) 
 ## Social Media's :
 <p>
 
