@@ -42,6 +42,9 @@ Religion = "🇲🇦"
 - 👯 I'm Looking To Collaborate On Projects
 - 🤔 I'm Looking For Help With Open Source
 ```
+### CURRENTLY LISTENING TO 
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LILUZIVERT Spotify Playing" width="350" />
+
 ## Stats : ![Amine's github stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true)
 
 ## Skills : [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
