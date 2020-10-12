@@ -2,7 +2,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views)
 [![telegram badge](https://img.shields.io/badge/AmineSoukara-30302f?style=flat&logo=telegram)](https://t.me/AmineSoukara)
 ![Dyno](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif) 
-## Social Media's :
+## <h2>Social Media's : <img src="https://github.com/AmineSoukara/AmineSoukara/raw/master/Hi.gif" width="22px"></h2>
 <p>
 
   <a href="https://bit.ly/AmineSoukaraTwitter">
@@ -36,11 +36,6 @@ Name = "Amine Soukara"
 Who_I_Am = ['Developer','Coder','Noobie']
 Age = 20
 Religion = "🇲🇦"
-
-- 🔭 I'm Currently Working On Python, Go, Rust Projects
-- 🌱 I'm Currently Learning Rust
-- 👯 I'm Looking To Collaborate On Projects
-- 🤔 I'm Looking For Help With Open Source
 ```
 ### CURRENTLY LISTENING TO 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="LILUZIVERT Spotify Playing" width="350" />
