@@ -42,4 +42,6 @@ Religion = "🇲🇦"
 
 ## Stats : ![Amine's github stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true)
 
+#Wakatime : [![Amine's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aminesoukara)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills : [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
