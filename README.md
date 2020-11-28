@@ -20,6 +20,8 @@
   - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History book 📚
 </details>
 
+![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif) 
+
 <hr>
 <h3 align="center">Languages & Tools</h3>
 <p align="center"><i>As a student, i always want to study more and more. Don't hesitate to give me your knowledge!</i></p>
