@@ -2,20 +2,20 @@
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
-<a href="https://DamienSoukara.github.io"><img src="https://i.imgur.com/07aPB5A.jpg"></a>
+<a href="https://AmineSoukara.github.io"><img src="https://i.imgur.com/07aPB5A.jpg"></a>
 
-- My Name is Amine Soukara, U Can Call Me DAMIEN 😉
-- I'm A Student In 🏫
+- My Name is Amine Soukara, U Can Call Me DAMIEN 👾
+- I'm an English student at Sidi Mohamed Ben Abdellah 🏫
 - Born and live in Morocco 🇲🇦
 
 <details>
   <summary>Some Interesting Facts About Me!</summary>
   
-  - ...
+  - Ta Qlwa Gha Kmel Tri9k Bla Mt9ra 😄 
   
-  - Playing Game When Have A Free Time 🎮
+  - Makla N3as, Github Games 🎮
 
-  - While Coding, Listening Music And Developing Useful Codes. ⭐️
+  - Listening To Music While Coding, And Developing Useful Codes. ⭐️
   
   - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History book 📚
 </details>
@@ -56,8 +56,8 @@
 </p>
 
 <hr>
-<h2 align="center">Thank You 🙏🏼</h2>
-<p align="center"><b><i>Nothing special with me!</i></b></p>
+<h2 align="center">©️ Damien Soukara</h2>
+<p align="center"><b><i>"Боль неизбежна. Страдание необязательно"</i></b></p>
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
