@@ -44,9 +44,10 @@
 <p align="center">
 </p>
 
+[![Amine Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&currStreakNum=ff0000&fire=red&sideLabels=00000)](https://github.com/AmineSoukara)
 ![Amine's github stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&currStreakNum=ff0000&fire=red&sideLabels=00000)](https://github.com/AmineSoukara)
+
 
 <hr>
 <h3 align="center">Social Media</h3>
