@@ -58,7 +58,7 @@
 <a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/twitter.ico"></a>
 <a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/facebook.ico"></a>
 <a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/snap.ico"></a>
-<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/whtsp.ico"></a>
+<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="48" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/whtsp.ico"></a>
 <a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/github.ico"></a>
 <a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/youtube.ico"></a>
 <a href="mailto:aminesoukara@gmail.com" alt="Gmail"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/gmail.ico"></a>
