@@ -47,6 +47,8 @@
 ![Amine's github stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&locale=tr&theme=white" alt="AmineSoukara" /></p>
+
 <hr>
 <h3 align="center">Social Media</h3>
 <p align="center"><i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i></p>
