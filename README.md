@@ -61,7 +61,7 @@
 <a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="48" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/whtsp.ico"></a>
 <a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/github.ico"></a>
 <a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/youtube.ico"></a>
-<a href="mailto:aminesoukara@gmail.com" alt="Gmail"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/gmail.ico"></a>
+<a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/gmail.ico"></a>
 </p>
 
 <hr>
