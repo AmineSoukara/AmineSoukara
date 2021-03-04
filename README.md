@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
-<a href="https://AmineSoukara.github.io"><img align="left" width="200" height="200" alt="DamienSoukara" src="https://i.imgur.com/07aPB5A.jpg"></a>
+<a href="https://AmineSoukara.github.io"><img alt="DamienSoukara" src="https://i.imgur.com/07aPB5A.jpg"></a>
 
 - My Name is Amine Soukara, U Can Call Me DAMIEN 👾
 - I'm an English student at Sidi Mohamed Ben Abdellah 🏫
@@ -74,10 +74,11 @@
 </p>
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default)](https://open.spotify.com/user/215m7o2db7shzyoxpnsajilpy?si=qL6jJSMNQDmHzW3VpTHhbg&utm_source=copy-link)
+align="left" width="200" height="200" 
 
 <hr>
 <h2 align="center">©️ Damien Soukara</h2>
 <p align="center"><b><i>"Боль неизбежна. Страдание необязательно"</i></b></p>
 <p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default">
 </p>
