@@ -45,7 +45,7 @@
 
 <a href="https://AmineSoukara.me"><img src="https://github-stats-alpha.vercel.app/api/?username=AmineSoukara&cc=fff&tc=000&ic=000" alt="DamienSoukara"></a>
 [![Amine Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&currStreakNum=ff0000&fire=red&sideLabels=00000)](https://github.com/AmineSoukara)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/AmineSoukara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/AmineSoukara)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmineSoukara)](https://github.com/AmineSoukara)
 
 <hr>
@@ -69,6 +69,80 @@
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default">
 </p>
+
+### Projects and Dev Stuffs:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
+</details>
+
+<details>
+  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>👨‍💻 Language</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/AmineSoukara"><b>🚀 test</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/AmineSoukara"><b>💸 test</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/DamienSoukara/FSub-Heroku"><b>👾 FSub</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DamienSoukara/FSub-Heroku?style=flat-square&labelColor=000"/></td> 
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/AmineSoukara"><b>🤓 test</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=000"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=000"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-plue?style=flat-square&labelColor=000"/></td> 
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+ 
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>Browser: </b> Firefox Developer Edition</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
+	    <br />
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	</ul>	
+</details>
+
 
 <hr>
 <h2 align="center">©️ Damien Soukara</h2>
