@@ -73,5 +73,5 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
 
-## Music 🤓
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+## MaFav Songs 🤓
+[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default)](https://open.spotify.com/user/215m7o2db7shzyoxpnsajilpy?si=qL6jJSMNQDmHzW3VpTHhbg&utm_source=copy-link)
