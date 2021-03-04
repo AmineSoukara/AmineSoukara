@@ -72,3 +72,6 @@
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
+
+## 🏆 GitHub Trophies
+[![DamienSoukara](https://github-profile-trophy.vercel.app/?username=AmineSouKara&theme=black&column=7)](https://github.com)
