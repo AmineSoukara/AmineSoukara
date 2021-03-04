@@ -20,7 +20,9 @@
   - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History book 📚
 </details>
 
-![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif) 
+![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif)
+ 
+<a href="https://AmineSoukara.me"><img src="https://github-stats-alpha.vercel.app/api/?username=AmineSoukara&cc=000&tc=fff&ic=fff" alt="DamienSoukara"></a>
 
 <hr>
 <h3 align="center">Languages & Tools :</h3>
