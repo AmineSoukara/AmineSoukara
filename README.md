@@ -21,8 +21,6 @@
 
 ![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif)
  
-<a href="https://AmineSoukara.me"><img src="https://github-stats-alpha.vercel.app/api/?username=AmineSoukara&cc=000&tc=fff&ic=fff" alt="DamienSoukara"></a>
-
 <hr>
 <h3 align="center">Languages & Tools :</h3>
 <p align="center"><i>As a student, i always want to study more and more. Don't hesitate to give me your knowledge!</i></p>
@@ -45,8 +43,8 @@
 <p align="center">
 </p>
 
+<a href="https://AmineSoukara.me"><img src="https://github-stats-alpha.vercel.app/api/?username=AmineSoukara&cc=fff&tc=000&ic=000" alt="DamienSoukara"></a>
 [![Amine Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&currStreakNum=ff0000&fire=red&sideLabels=00000)](https://github.com/AmineSoukara)
-![Amine's github stats](https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&layout=compact)](https://github.com/AmineSoukara)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmineSoukara)](https://github.com/AmineSoukara)
 
