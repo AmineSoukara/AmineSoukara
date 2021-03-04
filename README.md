@@ -54,15 +54,15 @@
 <h3 align="center">Social Media</h3>
 <p align="center"><i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i></p>
 <p align="center">
-<a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/instagram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/telegram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/twitter.ico"></a>
-<a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/facebook.ico"></a>
-<a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/snap.ico"></a>
-<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="48" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/whtsp.ico"></a>
-<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/github.ico"></a>
-<a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/youtube.ico"></a>
-<a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="45" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/gmail.ico"></a>
+<a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/instagram.ico"></a>
+<a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/telegram.ico"></a>
+<a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/twitter.ico"></a>
+<a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/facebook.ico"></a>
+<a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="30" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/snap.ico"></a>
+<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/whtsp.ico"></a>
+<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/github.ico"></a>
+<a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/youtube.ico"></a>
+<a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/gmail.ico"></a>
 </p>
 
 <hr>
