@@ -73,5 +73,5 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
 
-## 🏆 GitHub Trophies
-[![DamienSoukara](https://github-profile-trophy.vercel.app/?username=AmineSouKara&theme=black&column=7)](https://github.com)
+## Music 🤓
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
