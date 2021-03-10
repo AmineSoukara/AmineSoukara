@@ -148,5 +148,5 @@
 <h2 align="center">©️ Damien Soukara</h2>
 <p align="center"><b><i>"Боль неизбежна. Страдание необязательно"</i></b></p>
 <p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
+<img src="https://metrics.lecoq.io/aminesoukara?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul">
 </p>
