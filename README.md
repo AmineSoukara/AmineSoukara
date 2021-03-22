@@ -68,6 +68,8 @@
 <p align="center"><b><i>"Don't Spy On Me 😅🤓"</i></b></p>
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=215m7o2db7shzyoxpnsajilpy&count=3">
+
 </p>
 
 ### Projects and Dev Stuffs:
@@ -148,5 +150,6 @@
 <h2 align="center">©️ Damien Soukara</h2>
 <p align="center"><b><i>"Боль неизбежна. Страдание необязательно"</i></b></p>
 <p align="center">
-<img src="https://metrics.lecoq.io/aminesoukara?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul">
+<img src="https://metrics.lecoq.io/AmineSoukara?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&activity=1&achievements=1&pagespeed=1&tweets=1&posts=1&stock=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=false&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=false&achievements.limit=0&pagespeed.url=AmineSoukara.me&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=AmineSoukara&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&stock.duration=1d&stock.interval=5m&config.timezone=Africa%2FCasablanca">
 </p>
+
