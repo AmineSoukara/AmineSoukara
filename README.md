@@ -4,19 +4,23 @@
 </p>
 <a href="https://AmineSoukara.me"><img alt="DamienSoukara" src="https://i.imgur.com/07aPB5A.jpg"></a>
 
-- My Name is Amine Soukara, U Can Call Me DAMIEN 👾
-- I'm an English student at Sidi Mohamed Ben Abdellah 🏫
+- 👾 My Name is Amine Soukara, You Can Call Me DAMIEN
+- 🏫 I'm an English student at Sidi Mohamed Ben Abdellah
 
 <details>
   <summary>Some Interesting Facts About Me!</summary>
   
-  - Ta Qlwa Gha Kmel Tri9k Bla Mt9ra 😄 
+  - 😄 Ta Qlwa Gha Kmel Tri9k Bla Mt9ra 
   
-  - Makla N3as, Github Games 🎮
+  - 🎮 Makla N3as, Github, Games (PUBG & COD)
 
-  - Listening To Music While Coding, And Developing Useful Codes. ⭐️
+  - 🎵 Listening To Music While Coding, And Developing Useful Codes.
   
-  - Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History book 📚
+  - 📚 Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History books
+
+  - 🥅 2021 Goals: Learn JavaScript, Go, C++ etc.
+
+  - ⚡ Fun fact: I'm Single
 </details>
 
 ![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif)
@@ -31,8 +35,8 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/> </a>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="37" height="37"/> </a>
 <a href="https://css.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -69,8 +73,9 @@
 <p align="center"><b><i>"Don't Spy On Me 😅🤓"</i></b></p>
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default">
+<!--- 
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=215m7o2db7shzyoxpnsajilpy&count=3">
-
+--->
 </p>
 
 ### Projects and Dev Stuffs:
