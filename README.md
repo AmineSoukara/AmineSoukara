@@ -8,7 +8,7 @@
 - I'm an English student at Sidi Mohamed Ben Abdellah 🏫
 
 <details>
-  <summary># Some Interesting Facts About Me!</summary>
+  <summary>Some Interesting Facts About Me!</summary>
   
   - Ta Qlwa Gha Kmel Tri9k Bla Mt9ra 😄 
   
@@ -32,7 +32,7 @@
 <a href="https://css.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://kintohub.com" target="_blank"> <img src="https://s3-ap-east-1.amazonaws.com/whub-files/uploads/logo/file/5ab0df64edabaf29737aea1e/large_Twitter_Facebook_LinkedIn_Profile.png" alt="kintohub" width="50" height="50"/> </a>
+<a href="https://.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/> </a>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
