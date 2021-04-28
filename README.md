@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
-<a href="https://AmineSoukara.me"><img alt="DamienSoukara" src="https://i.imgur.com/07aPB5A.jpg"></a>
+<a href="https://AmineSoukara.me"><img alt="LinkinSkye" src="https://i.imgur.com/07aPB5A.jpg"></a>
 
 - 👾 My Name is Amine Soukara, You Can Call Me DAMIEN
 - 🏫 I'm an English student at Sidi Mohamed Ben Abdellah
