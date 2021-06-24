@@ -58,15 +58,15 @@
 <h3 align="center">Social Media</h3>
 <p align="center"><i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i></p>
 <p align="center">
-<a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/instagram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/telegram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/twitter.ico"></a>
-<a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/facebook.ico"></a>
-<a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="30" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/snap.ico"></a>
-<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="35" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/whtsp.ico"></a>
-<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/github.ico"></a>
-<a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/youtube.ico"></a>
-<a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara.github.io/master/img/logo/gmail.ico"></a>
+<a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/instagram.ico"></a>
+<a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/telegram.ico"></a>
+<a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/twitter.ico"></a>
+<a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/facebook.ico"></a>
+<a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/snap.ico"></a>
+<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="36" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/whtsp.ico"></a>
+<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/github.ico"></a>
+<a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/youtube.ico"></a>
+<a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/gmail.ico"></a>
 </p>
 
 <hr>
@@ -92,63 +92,8 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
-</details>
+<a href="https://github.com/AmineSoukara"><img alt="Damien's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmineSoukara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-	      <td><a href="https://github.com/AmineSoukara"><b>🚀 test</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/AmineSoukara"><b>💸 test</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/iampavangandhi/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/DamienSoukara/FSub-Heroku"><b>👾 FSub</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/DamienSoukara/FSub-Heroku?style=flat-square&labelColor=000"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/AmineSoukara"><b>🤓 test</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/iampavangandhi?style=flat-square&labelColor=000"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/iampavangandhi?style=flat-square&labelColor=000"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-plue?style=flat-square&labelColor=000"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
- 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04 </li>
-	    <li><b>Laptop: </b> ... </li>
-  	    <li><b>Browser: </b> Firefox Developer Edition </li>
-	    <li><b>Terminal: </b> ... </li>
-	    <li><b>Code Editor:</b> VSCode - The Best Editor Out There.</li>
-	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="t.me">Here</a>.
-	</ul>	
 </details>
 
 
