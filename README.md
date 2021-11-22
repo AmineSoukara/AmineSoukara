@@ -12,7 +12,7 @@
   
   - 😄 Ta Qlwa Gha Kmel Tri9k Bla Mt9ra 
   
-  - 🎮 Makla N3as, Github, Games (PUBG & COD)
+  - 🎮 Makla N3as, Coding, Games (PUBG & COD)
 
   - 🎵 Listening To Music While Coding, And Developing Useful Codes.
   
@@ -20,7 +20,7 @@
 
   - 🥅 2021 Goals: Learn JavaScript, Go, C++ etc.
 
-  - ⚡ Fun fact: I'm Single
+  - ⚡ Fun Fact: I'm Single
 </details>
 
 ![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif)
