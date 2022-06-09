@@ -1,30 +1,14 @@
-<h1 align="center"> DAMIEN SOUKARA! </h1> 
+<h1 align="center"> DAMIEN SOUKARA </h1> 
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
 </p>
-<a href="https://AmineSoukara.me"><img alt="LinkinSkye" src="https://i.imgur.com/07aPB5A.jpg"></a>
 
-- 👾 My Name is Amine Soukara, You Can Call Me DAMIEN
-- 🏫 I'm an English student at Sidi Mohamed Ben Abdellah
 
-<details>
-  <summary>Some Interesting Facts About Me!</summary>
-  
-  - 😄 Ta Qlwa Gha Kmel Tri9k Bla Mt9ra 
-  
-  - 🎮 Makla N3as, Coding, Games (PUBG & COD)
-
-  - 🎵 Listening To Music While Coding, And Developing Useful Codes.
-  
-  - 📚 Reading Novels, Action and Adventure, Autobiography & Biography, Comics, Detective and Mystery, Fantasy, Historical Fiction, Sci-Fi, History books
-
-  - 🥅 2021 Goals: Learn JavaScript, Go, C++ etc.
-
-  - ⚡ Fun Fact: I'm Single
-</details>
+<a href="https://AmineSoukara.me"><img alt="LinkinSkye" src="https://telegra.ph/file/bf2cd9b2441dad3a02b0b.jpg"></a>
 
 ![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif)
- 
+
+
 <hr>
 <h3 align="center">Languages & Tools :</h3>
 <p align="center"><i>As a student, i always want to study more and more. Don't hesitate to give me your knowledge!</i></p>
@@ -55,8 +39,8 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmineSoukara)](https://github.com/AmineSoukara)
 -->
 <hr>
-<h3 align="center">Social Media</h3>
-<p align="center"><i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i></p>
+<h3 align="center">Social Media :</h3>
+<p align="center"><i>Let's Connect and Chat!</i></p>
 <p align="center">
 <a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/instagram.ico"></a>
 <a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/telegram.ico"></a>
@@ -70,14 +54,11 @@
 </p>
 
 <hr>
-<h2 align="center">Music :</h2>
+<h2 align="center">Spotify Recently Played :</h2>
 <p align="center"><b><i>"Don't Spy On Me 😅🤓"</i></b></p>
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=215m7o2db7shzyoxpnsajilpy&cover_image=true&theme=default">
-<!--
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=215m7o2db7shzyoxpnsajilpy&count=3">
--->
-</p>
+<p align="center"></p>
+
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=215m7o2db7shzyoxpnsajilpy&unique=true)
 
 ### Projects and Dev Stuffs:
 
@@ -95,14 +76,4 @@
 <a href="https://github.com/AmineSoukara"><img alt="Damien's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmineSoukara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
-
-
-<hr>
-<h2 align="center">©️ Damien Soukara</h2>
-<p align="center"><b><i>"Боль неизбежна. Страдание необязательно"</i></b></p>
-<p align="center">
-<!--
-<img src="https://metrics.lecoq.io/AmineSoukara?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&activity=1&achievements=1&pagespeed=1&tweets=1&posts=1&stock=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&introduction.title=false&stars.limit=4&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=false&achievements.limit=0&pagespeed.url=AmineSoukara.me&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=AmineSoukara&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&stock.duration=1d&stock.interval=5m&config.timezone=Africa%2FCasablanca">
--->
-</p>
 
