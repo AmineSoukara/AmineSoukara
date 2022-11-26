@@ -1,18 +1,29 @@
-<h1 align="center"> DAMIEN SOUKARA </h1> 
-<p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&title=Profile%20Views">
+<a href="https://bio.link/aminesoukara"><img alt="LinkinSkye" src="https://telegra.ph/file/bf2cd9b2441dad3a02b0b.jpg"></a>
+
+<hr> <h3 align="center">Social Media :</h3>
+
+> Let's Connect and Chat!
+
+<p>
+<a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/instagram.ico"></a>
+<a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/telegram.ico"></a>
+<a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/twitter.ico"></a>
+<a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/facebook.ico"></a>
+<a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/snap.ico"></a> 
+<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="36" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/whtsp.ico"></a>
+<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/github.ico"></a>
+<!--
+<a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/youtube.ico"></a>
+--> 
+<a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/gmail.ico"></a>
 </p>
 
 
-<a href="https://AmineSoukara.me"><img alt="LinkinSkye" src="https://telegra.ph/file/bf2cd9b2441dad3a02b0b.jpg"></a>
+<hr> <h3 align="center">Languages & Tools :</h3>
 
-![RUN](https://github.com/AmineSoukara/AmineSoukara/raw/master/dino.gif)
+> As a student, i always want to study more and more. Don't hesitate to give me your knowledge!
 
-
-<hr>
-<h3 align="center">Languages & Tools :</h3>
-<p align="center"><i>As a student, i always want to study more and more. Don't hesitate to give me your knowledge!</i></p>
-<p align="center">
+<p>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a>
 <a href="https://.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40p" height="40"/> </a>
@@ -27,56 +38,43 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://php.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- </p>
-</p>
-<p align="center">
-</p>
+</p> 
+
+<hr> <h3 align="center">Github Stuffs :</h3>
 
 <a href="https://AmineSoukara.me"><img src="https://github-stats-alpha.vercel.app/api/?username=AmineSoukara&cc=fff&tc=000&ic=000" alt="DamienSoukara"></a>
-<!--
-[![Amine Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&currStreakNum=ff0000&fire=red&sideLabels=00000)](https://github.com/AmineSoukara)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8)](https://github.com/AmineSoukara)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmineSoukara)](https://github.com/AmineSoukara)
--->
-<hr>
-<h3 align="center">Social Media :</h3>
-<p align="center"><i>Let's Connect and Chat!</i></p>
-<p align="center">
-<a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/instagram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/telegram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/twitter.ico"></a>
-<a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/facebook.ico"></a>
-<a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/snap.ico"></a>
-<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="36" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/whtsp.ico"></a>
-<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/github.ico"></a>
-<a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/youtube.ico"></a>
-<a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/gmail.ico"></a>
-</p>
 
-<hr>
-<h2 align="center">Spotify Recently Played :</h2>
-<p align="center"><b><i>"Don't Spy On Me 😅🤓"</i></b></p>
-<p align="center"></p>
+<details>	
+  <summary><b>Stats :</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</details>
+
+<details>	
+  <summary><b>Most Used Languages :</b></summary>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>Graph :</b></summary>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminesoukara&theme=github" />
+</details>
+
+<details>	
+  <summary><b>Streaks :</b></summary>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
+</details>
+
+
+<hr> <h3 align="center">Spotify Recently Played :</h3>
+
+> Don't Spy On Me Haha
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=215m7o2db7shzyoxpnsajilpy&unique=true)
 
-### Projects and Dev Stuffs:
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<hr> <a href="https://bio.link/aminesoukara"><img alt="LinkinSkye" src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png"></a>
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmineSoukara&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminesoukara&theme=github" />
-
-</details>
-
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
-<a href="https://github.com/AmineSoukara"><img alt="Damien's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmineSoukara&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-</details>
+> ©️ Damien Soukara
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Profile%20Views&edge_flat=false" alt="hits" />
 
