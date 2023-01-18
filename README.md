@@ -46,7 +46,6 @@
 
 <hr> <h3 align="center">Github Stuffs :</h3>
 
-
 <p align="center" width="100%" >
   <img width="100%" src="https://github-stats-alpha.vercel.app/api/?username=AmineSoukara&cc=fff&tc=000&ic=000" alt="DamienSoukara" />
 </p>
@@ -54,12 +53,12 @@
 
 <details>	
   <summary><b>Most Used Languages :</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>Graph :</b></summary>
-<img height="130em" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmineSoukara&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmineSoukara&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true" />
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminesoukara&theme=github" alt="DamienSoukara" />
 </p>
 
@@ -69,9 +68,8 @@
 
 <details>	
   <summary><b>Streaks :</b></summary>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
 </details>
-
 
 <div align="center">
 
@@ -81,10 +79,9 @@
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=215m7o2db7shzyoxpnsajilpy&unique=true)
 
-
-<img src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png" align="center" width="80%">
+<img width="80%" src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png" align="center" width="80%">
 
 > ©️ Damien Soukara
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Profile%20Views&edge_flat=false" align="center" width="50%">
+<img width="40%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Profile%20Views&edge_flat=false" align="center" width="50%">
 </div>
