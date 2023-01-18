@@ -50,7 +50,6 @@
   <img width="100%" src="https://github-stats-alpha.vercel.app/api/?username=AmineSoukara&cc=fff&tc=000&ic=000" alt="DamienSoukara" />
 </p>
 
-
 <details>	
   <summary><b>Most Used Languages :</b></summary>
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineSoukara&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
@@ -60,15 +59,11 @@
   <summary><b>Graph :</b></summary>
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmineSoukara&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true" />
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminesoukara&theme=github" alt="DamienSoukara" />
-</p>
-
-</p>
-
 </details>
 
 <details>	
   <summary><b>Streaks :</b></summary>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
+<img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
 </details>
 
 <div align="center">
