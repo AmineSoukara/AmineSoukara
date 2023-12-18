@@ -72,7 +72,9 @@
 
 > Don't Spy On Me Haha
 
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=215m7o2db7shzyoxpnsajilpy&unique=true)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=215m7o2db7shzyoxpnsajilpy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=215m7o2db7shzyoxpnsajilpy" alt="Data Card for Spotify">
+</a>
 
 <img width="80%" src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png" align="center" width="80%">
 
