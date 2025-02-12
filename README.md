@@ -7,7 +7,7 @@
 > Let's Connect and Chat!
 
 <p>
-<a href="https://bit.ly/AmineSoukaraIG" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/instagram.ico"></a>
+<a href="https://www.instagram.com/linkinskye" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/instagram.ico"></a>
 <a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/telegram.ico"></a>
 <a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/twitter.ico"></a>
 <a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/facebook.ico"></a>
