@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://telegra.ph/file/bf2cd9b2441dad3a02b0b.jpg" align="center" width="80%">
+<img src="https://envs.sh/Ets.jpg" align="center" width="80%">
 
 <hr> <h3 align="center">Social Media :</h3>
 
