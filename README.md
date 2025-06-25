@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://envs.sh/Ets.jpg" align="center" width="80%">
+<img src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png" align="center" width="80%">
 
 <hr> <h3 align="center">Social Media :</h3>
 
@@ -8,15 +8,11 @@
 
 <p>
 <a href="https://www.instagram.com/linkinskye" alt="Instagram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/instagram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTme" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/telegram.ico"></a>
-<a href="https://bit.ly/AmineSoukaraTwitter" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/twitter.ico"></a>
-<a href="https://bit.ly/AmineSoukaraFacebook" alt="Facebook"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/facebook.ico"></a>
-<a href="https://bit.ly/AmineSoukaraSnap" alt="Snap"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/snap.ico"></a> 
-<a href="https://bit.ly/AmineSoukaraWhtsp" alt="WhatsApp"><img height="36" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/whtsp.ico"></a>
-<a href="https://bit.ly/AmineSoukaraGit" alt="Github"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/github.ico"></a>
-<!--
-<a href="https://bit.ly/AmineSoukaraYoutube" alt="Youtube"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/youtube.ico"></a>
---> 
+<a href="https://t.me/AmineSoukara" alt="Telegram"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/telegram.ico"></a>
+<a href="https://x.com/AmineSoukara" alt="Twitter"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/twitter.ico"></a>
+<a href="https://www.facebook.com/altySoukara" alt="Facebook"><img height="32" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/facebook.ico"></a>
+<a 
+  href="https://wa.me/212697108758" alt="WhatsApp"><img height="36" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/whtsp.ico"></a>
 <a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/gmail.ico"></a>
 </p>
 
@@ -57,13 +53,8 @@
 
 <details>	
   <summary><b>Graph :</b></summary>
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AmineSoukara&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true" />
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminesoukara&theme=github" alt="DamienSoukara" />
-</details>
 
-<details>	
-  <summary><b>Streaks :</b></summary>
-<img  width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineSoukara&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminesoukara&theme=github" alt="DamienSoukara" />
 </details>
 
 <div align="center">
@@ -78,7 +69,6 @@
 
 <img width="80%" src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png" align="center" width="80%">
 
-> ©️ Damien Soukara
+> Damien Soukara
 
-<img width="40%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AmineSoukara/&count_bg=%23FF0000&title_bg=%23555555&icon=tinder.svg&icon_color=%23FF0000&title=Profile%20Views&edge_flat=false" align="center" width="50%">
-</div>
+
